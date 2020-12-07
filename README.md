@@ -1,4 +1,4 @@
-<b>My Notes</b>
+<b>My Notes</b><br>
 https://docs.google.com/document/d/14ZvmDHVoPkNpUy8ElTb0TT4vm86YXAWDRd6JmdbNhIY/edit?usp=sharing
 
 Applied Machine Learning Projets:
